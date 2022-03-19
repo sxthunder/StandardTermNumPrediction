@@ -1,0 +1,2 @@
+# StandardTermNumPrediction
+针对中文临床术语标准化中标准术语个数预测问题
