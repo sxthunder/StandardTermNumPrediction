@@ -1,0 +1,15 @@
+*.ipynb
+/output
+/__pycache__
+/.vscode
+/*_data
+!/origin_num_data
+/fina_sim
+/.ipynb_checkpoints
+/output1
+output.png
+prefix_ner_bert.py
+rank_pred_ids
+res_list.txt
+xuekui_test.pkl
+pred_num.txt
